@@ -1,4 +1,4 @@
-## This repository contains the code associated with the manuscript "Five decades of Abramov glacier dynamics reconstructed with multi-sensor optical remote sensing", under review (July 2024) for The Cryosphere.
+## Code associated with the manuscript "Five decades of Abramov glacier dynamics reconstructed with multi-sensor optical remote sensing", under review (July 2024) for The Cryosphere.
 
 - **Under box_method/:**               code to analyze glacier length changes from a vector file of terminus positions, using the rectilinear box method.
 
